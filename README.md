@@ -1,3 +1,7 @@
-# lab-4C24-SSG-Project
+# lab-4C24-2020-SSG-Project 
 
-Sebastian Schambaher Gallegos
+Descripción breve del proyecto
+
+## Getting Started
+
+Instrucciones para empezar el proyecto
